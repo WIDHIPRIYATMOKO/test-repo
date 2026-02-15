@@ -1,9 +1,9 @@
 RENCANA TEST KE-6
-
-- add localhost 3000
-- tambah create di DB
+]
+- add localhost 4000
+- tambah create
 - bikin get endpoint
-* test API di postman
+* test API di extension
 - tambah JWT Auth
 - update Oauth
 - caching with Redis
