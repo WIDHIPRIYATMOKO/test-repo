@@ -1,0 +1,6 @@
+RENCANA TEST KE-6
+
+- tambah create
+- bikin get endpoint
+- tambah JWT Auth
+- update Oauth
