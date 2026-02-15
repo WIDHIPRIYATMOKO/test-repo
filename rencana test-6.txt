@@ -1,5 +1,6 @@
 RENCANA TEST KE-6
 
+- add localhost 3000
 - tambah create di DB
 - bikin get endpoint
 * test API di postman
