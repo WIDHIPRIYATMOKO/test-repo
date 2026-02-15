@@ -1,7 +1,8 @@
 RENCANA TEST KE-6
 
-- tambah create
+- tambah create di DB
 - bikin get endpoint
+* test API di postman
 - tambah JWT Auth
 - update Oauth
 - caching with Redis
